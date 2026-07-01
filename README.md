@@ -15,11 +15,17 @@
 
 
 🎓 Engineering student, currently exploring frontend development, full-stack web apps, and Salesforce
+
 💡 Recently built CivicPulse — an AI-powered citizen grievance intelligence system for Puducherry's civic complaints, at UNBOUND '26
+
 🛠️ Interned at Kurinji Technology Solutions, building a Salesforce-based Campus Event Booking Portal
+
 🏆 Competed in the Bharatiya Antariksh Hackathon with Team SiriusDevs
+
 🌱 Currently deepening my skills toward becoming an AI Engineer
+
 👯 Frequently collaborate with my twin sister Mathi on hackathons and projects
+
 📫 Reach me on LinkedIn
 
 
